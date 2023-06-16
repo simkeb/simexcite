@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Simon", "Merid", , "simon.merid@ki.se", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Convinence function to test
+Description: Convinence function to test in string and split the character separetly.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
